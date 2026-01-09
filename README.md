@@ -24,5 +24,7 @@ Demo: <https://mental-health-dashboard-iw4i.onrender.com/>
 ## Attribution / Credits
 
 Personal continuation/refactor of a GWU Capstone team project (Team of 4).  
-Original team members: Erica Zhao, Qibin Huang, Jianjun Gao, Sandhya Karki.
-Original team repo: https://github.com/QibinHuang/Mental-Health-dashboard
+Original team members: Erica Zhao, Qibin Huang, Jianjun Gao, Sandhya Karki.  
+Original team repo: [QibinHuang/Mental-Health-dashboard][team-repo]
+
+[team-repo]: https://github.com/QibinHuang/Mental-Health-dashboard
