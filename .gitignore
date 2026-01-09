@@ -7,3 +7,7 @@ venv/
 .DS_Store
 data/
 models/
+data/*
+!data/README.md
+models/*
+!models/README.md
