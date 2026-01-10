@@ -11,3 +11,7 @@ data/*
 !data/README.md
 models/*
 !models/README.md
+data/*
+!data/README.md
+models/*
+!models/README.md
