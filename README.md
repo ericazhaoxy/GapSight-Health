@@ -35,3 +35,13 @@ Original team repo: [QibinHuang/Mental-Health-dashboard][team-repo]
 
 [team-repo]: https://github.com/QibinHuang/Mental-Health-dashboard
 ```
+
+## Modeling (XGBoost)
+
+Training scaffold lives in `src/models/`.
+
+Example (WIP):
+
+```bash
+python src/models/train_xgb.py --data path/to/state_month.csv --target anxiety_index --split_date 2024-01
+```
