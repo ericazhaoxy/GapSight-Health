@@ -45,3 +45,10 @@ Example (WIP):
 ```bash
 python src/models/train_xgb.py --data path/to/state_month.csv --target anxiety_index --split_date 2024-01
 ```
+
+## How to run (WIP)
+
+```bash
+pip install -r requirements.txt
+python src/models/train_xgb.py --help
+```
