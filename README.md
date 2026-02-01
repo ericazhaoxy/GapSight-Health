@@ -14,6 +14,18 @@ Demo: <https://mental-health-dashboard-iw4i.onrender.com/>
 
 ![Dashboard preview](docs/dashboard_preview.png)
 
+# Data
+
+Sources
+
+- Google Trends via `pytrends` (mental-health related queries)
+- HRSA/AHRF provider capacity metrics
+
+Note
+
+- Raw extracts can be large and may have redistribution constraints.
+- This repo will provide scripts to rebuild the final state–month dataset (WIP).
+
 ## Repo structure
 
 - `app/` dashboard app
